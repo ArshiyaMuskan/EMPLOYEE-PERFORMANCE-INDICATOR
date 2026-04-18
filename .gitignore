@@ -1,0 +1,9 @@
+venv/
+venv312/
+__pycache__/
+*.pyc
+models/*.pkl
+data/*.csv
+outputs/*.png
+.env
+.venv
